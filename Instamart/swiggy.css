@@ -1,0 +1,37 @@
+*{
+    border: 0%;
+    padding: 0%;
+}
+body,html{
+    height: 100%;
+    width: 100%;
+}
+
+.img1{
+         display: flex;
+   float:inline-start;
+     justify-content:space-around;
+  
+    width: 35px;
+    height: 35px;
+    
+}
+
+.logo{
+    
+     justify-content:space-around;
+    color:blue;
+}
+.sub{
+    
+   
+     justify-content:space-around;
+}
+.search{
+      display: flex;
+   float:center;
+     justify-content:space-around;
+    height: 40px;
+    border-radius: 10px;
+    opacity: 0.6;
+}
